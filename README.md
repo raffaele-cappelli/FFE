@@ -18,6 +18,8 @@ The FFE benchmark has been designed with the following characteristics:
 For more information on this benchmark, including evaluation metric and storage format, please see [2].
 
 ## References
-[1] FVC-onGoing web site, https://biolab.csr.unibo.it/fvcongoing
+\[1\] FVC-onGoing web site, https://biolab.csr.unibo.it/fvcongoing
 
-[2] (Paper under review)
+\[2\] R. Cappelli, "No Feature Left Behind: Filling the Gap in Fingerprint Frequency Estimation," in IEEE Access, vol. 12, pp. 153605-153617, 2024, doi: [10.1109/ACCESS.2024.3481507](https://doi.org/10.1109/ACCESS.2024.3481507).
+
+
